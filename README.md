@@ -13,13 +13,18 @@
 > Project page: https://psh01087.github.io/VITON-HD
 
 
+
 >## Implementation
 >Follow this notebook for implementation. 
 >https://colab.research.google.com/drive/1-xKgeG7XnZFG9EjVBGwKNTzDDgsfAoQV?usp=sharing
 
 
+
 ## Citation:
 For citing the original work please use the following information: 
+
+
+
 ```
 @inproceedings{choi2021viton,
   title={VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization},
