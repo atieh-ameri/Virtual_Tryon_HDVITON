@@ -12,7 +12,8 @@
 > Paper: https://arxiv.org/abs/2103.16874<br>
 > Project page: https://psh01087.github.io/VITON-HD
 
-
+>
+>>
 
 >## Implementation
 >Follow this notebook for implementation. 
