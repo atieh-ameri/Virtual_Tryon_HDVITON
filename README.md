@@ -7,7 +7,8 @@
 
 
 
->This repository have used the following resources. Please refer to the following links for further information and original paper:
+>This repository have used the following resources. Please refer to the following links for further information and original paper.
+>
 > Paper: https://arxiv.org/abs/2103.16874<br>
 > Project page: https://psh01087.github.io/VITON-HD
 
